@@ -1,0 +1,7 @@
+Base path: C:/Program Files/Unity/Hub/Editor/2019.1.0f2/Editor/Data
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=6286 outsize=5565 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at RayTracer.compute(152): undeclared identifier 'SampleHemisphere'
+  api=4 insize=7420 outsize=0 ok=0
